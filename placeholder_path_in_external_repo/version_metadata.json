@@ -61,5 +61,12 @@
     "targetBranch": "dev",
     "datetime": "2023-09-11 15:49:19",
     "message": "[MINOR] Other breaking change"
+  },
+  {
+    "version": "2.3.1",
+    "sourceBranch": "feature/feature-1",
+    "targetBranch": "dev",
+    "datetime": "2023-09-11 15:51:18",
+    "message": "Other breaking change"
   }
 ]
