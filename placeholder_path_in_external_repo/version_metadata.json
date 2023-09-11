@@ -117,5 +117,12 @@
     "targetBranch": "dev",
     "datetime": "2023-09-10 22:39:40",
     "message": "[MINOR] SOMETHING"
+  },
+  {
+    "version": "2.1.0",
+    "sourceBranch": "feature/feature-1",
+    "targetBranch": "dev",
+    "datetime": "2023-09-10 22:40:05",
+    "message": "[minor] SOMETHING"
   }
 ]
