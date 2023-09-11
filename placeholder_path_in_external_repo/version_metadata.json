@@ -5,5 +5,12 @@
     "targetBranch": "initial",
     "datetime": "2023-09-11 15:36:20",
     "message": "Initial version"
+  },
+  {
+    "version": "1.0.1",
+    "sourceBranch": "feature/feature-1",
+    "targetBranch": "dev",
+    "datetime": "2023-09-11 15:36:22",
+    "message": "[minor] SOMETHING"
   }
 ]
