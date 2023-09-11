@@ -19,5 +19,12 @@
     "targetBranch": "dev",
     "datetime": "2023-09-11 15:37:30",
     "message": "[MAJOR] SOMETHING"
+  },
+  {
+    "version": "2.0.1",
+    "sourceBranch": "feature/feature-1",
+    "targetBranch": "dev",
+    "datetime": "2023-09-11 15:38:33",
+    "message": "A very good feature"
   }
 ]
