@@ -40,5 +40,12 @@
     "targetBranch": "dev",
     "datetime": "2023-09-11 15:40:24",
     "message": "[minor] A breaking change"
+  },
+  {
+    "version": "2.1.0",
+    "sourceBranch": "feature/feature-1",
+    "targetBranch": "dev",
+    "datetime": "2023-09-11 15:41:45",
+    "message": "[MINOR] A breaking change"
   }
 ]
