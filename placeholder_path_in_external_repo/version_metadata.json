@@ -82,5 +82,12 @@
     "targetBranch": "dev",
     "datetime": "2023-09-10 22:13:36",
     "message": "created a blue button"
+  },
+  {
+    "version": "1.0.12",
+    "sourceBranch": "feature/feature-1",
+    "targetBranch": "dev",
+    "datetime": "2023-09-10 22:14:06",
+    "message": "created a blue button"
   }
 ]
